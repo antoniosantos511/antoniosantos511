@@ -1,4 +1,4 @@
-Olá, eu sou Antonio Luis Lopes de Carvalho dos Santos 
+ Sou Antonio Luis Lopes de Carvalho dos Santos 
 📍 Rio de Janeiro, Brasil 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 
